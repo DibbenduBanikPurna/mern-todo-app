@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f42d9c95-812f-485f-8aae-a77081359b88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/to-do/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/controller/loginController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/controller/profileController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/controller/todoListController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/middleware/verifyTokenMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/model/profileModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/model/todoModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/to-do/src/router/api.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server/to-do" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aejg7PEJ150wFH4Q5y0IFLCWRL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/purna/OneDrive/Desktop/express-js/basic-To-do&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42d9c95-812f-485f-8aae-a77081359b88" name="Changes" comment="" />
+      <created>1704686047061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704686047061</updated>
+      <workItem from="1704686048195" duration="19607000" />
+      <workItem from="1704768770192" duration="9246000" />
+      <workItem from="1704780379861" duration="2823000" />
+      <workItem from="1704788131494" duration="1101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/to-do/src/Pages/Login/Login.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
