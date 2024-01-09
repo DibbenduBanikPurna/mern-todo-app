@@ -38,7 +38,7 @@ app.use(limiter)
 
 //console.log(process.env.MONGOURL)
 //database connection
-const URI=process.env.MONGOURL //"mongodb://127.0.0.1:27017/todo"
+const URI="mongodb+srv://purna:2470purna@cluster0.z2een.mongodb.net/todos"
 const options={user:'', pass:'',autoIndex:true}
 mongoose.connect(URI,options)
 .catch(err=>console.log(err))
